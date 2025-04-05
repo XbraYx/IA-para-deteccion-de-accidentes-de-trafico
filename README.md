@@ -19,20 +19,20 @@
         └── 📁diccionario_de_datos_nacional
             └── fd_bd_atus_georreferenciación.xlsx
         └── Samsung Innovation Campus.pptx
-    └── 📁notebooks
-        └── 📁Erik
+    └── 📁notebooks 
+        └── 📁Erik ⬅️
             └── Agrupacion_proyecto (1).ipynb
             └── agrupacionPROYE.ipynb
             └── data.ipynb
             └── oversampling.ipynb
             └── segunda_agrupacion.ipynb
-        └── 📁IsaiJesus
+        └── 📁IsaiJesus ⬅️
             └── 01_data_cleaning.ipynb
             └── 02_exploratory.ipynb
             └── 03_preprocessing.ipynb
             └── 04_1_modeling_regression.ipynb
             └── 04_2_modeling_clasification.ipynb
             └── 04_3_modeling_clustering.ipynb
-        └── 📁Miguel
+        └── 📁Miguel ⬅️
             └── Agrupación(1).ipynb
 ```
