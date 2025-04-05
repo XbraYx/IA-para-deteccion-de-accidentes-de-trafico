@@ -36,3 +36,7 @@
         └── 📁Miguel ⬅️
             └── Agrupación(1).ipynb
 ```
+
+# Metodología
+![methodology1](https://github.com/user-attachments/assets/606aeadb-ac24-4c75-8be4-500394f3988b)
+![methodology2](https://github.com/user-attachments/assets/9b42533b-0c6e-4d11-aae8-96bef8a0ec0b)
