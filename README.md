@@ -1,5 +1,4 @@
 # Estructura del proyecto
-
 ```
 └── 📁Proyecto
     └── 📁data
@@ -18,8 +17,9 @@
     └── 📁info
         └── 📁diccionario_de_datos_nacional
             └── fd_bd_atus_georreferenciación.xlsx
+        └── Reporte - Accidentes de tráfico.pdf
         └── Samsung Innovation Campus.pptx
-    └── 📁notebooks 
+    └── 📁notebooks
         └── 📁Erik ⬅️
             └── Agrupacion_proyecto (1).ipynb
             └── agrupacionPROYE.ipynb
@@ -34,7 +34,11 @@
             └── 04_2_modeling_clasification.ipynb
             └── 04_3_modeling_clustering.ipynb
         └── 📁Miguel ⬅️
-            └── Agrupación(1).ipynb
+            └── AccidentesFatales.ipynb
+            └── Agrupación_Causa_Tipo_de_accidente__A_partir_de_su_latitud_y_longitud_.ipynb
+            └── Estadísticas.ipynb
+            └── GravedadDelAccidente.ipynb
+            └── VariablesTemporales.ipynb
 ```
 
 # Metodología
