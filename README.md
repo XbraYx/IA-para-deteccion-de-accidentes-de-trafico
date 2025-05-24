@@ -14,7 +14,7 @@
                     └── 📁conjunto_de_datos
                         └── BASE MUNICIPAL_ACCIDENTES DE TRANSITO GEORREFERENCIADOS_2019.csv
                         └── datos_mexico_2019.csv
-    └── 📁info
+    └── 📁docs
         └── 📁diccionario_de_datos_nacional
             └── fd_bd_atus_georreferenciación.xlsx
         └── Reporte - Accidentes de tráfico.pdf
